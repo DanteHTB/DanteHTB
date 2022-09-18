@@ -1,35 +1,36 @@
 # Hello There 👋
 
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/DanteHTB/DanteHTB/blob/master/gifs/1111.gif">
+  <img alt="GIF" height="400" width="700" align="center" src="https://raw.githubusercontent.com/DanteHTB/DanteHTB/master/gifs/1111.gif">
 </div>
 
 </br>
 </br>
 </br>
 
-
 # About ME 💬 :
+
+<img alt="GIF" align="right" src="https://raw.githubusercontent.com/DanteHTB/DanteHTB/master/gifs/2222.gif">
 
 ### - I'm a 23 years old Tech Enthusiast from Romania.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/DanteHTB/DanteHTB/blob/master/gifs/2222.gif">
+</br>
 
 ### - Learning :
 - ✨ Digital Marketing
 - ✨ Intermediate Frontend
 - ✨ Data Structures & Algorithms
 
+</br>
+
 ### - Hobbies : 
 - ✨ Competitive Gaming
 - ✨ Watching Anime
 - ✨ Basketball
 
-
 </br>
 </br>
 </br>
-
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -70,17 +71,15 @@
 </br>
 </br>
 
-<img hight="320" width="450" alt="GIF" align="center" src="https://github.com/DanteHTB/DanteHTB/blob/master/gifs/3333.gif">
+<div align="center">
+<img alt="GIF" height="300" width="550" align="center" src="https://raw.githubusercontent.com/DanteHTB/DanteHTB/master/gifs/3333.gif">
+</div>
 
-</br>
-</br>
-</br>
-
-<h3 align="center"> Thanks for reading till the end 😉</h3>
+<h3 align="center"> Thanks for reading until the end 😉</h3>
 </br>
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=DanteHTB&&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DanteHTB&&show_icons=true&theme=radical"/>
   </a>
 </p>
