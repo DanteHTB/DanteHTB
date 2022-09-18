@@ -10,9 +10,10 @@
 
 # About ME 💬 :
 
+### - I'm a 23 years old Tech Enthusiast from Romania.
+
 <img alt="GIF" align="right" src="https://raw.githubusercontent.com/DanteHTB/DanteHTB/master/gifs/2222.gif">
 
-### - I'm a 23 years old Tech Enthusiast from Romania.
 
 </br>
 
